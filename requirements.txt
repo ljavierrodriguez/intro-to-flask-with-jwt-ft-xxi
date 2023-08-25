@@ -14,4 +14,4 @@ PyJWT==2.8.0
 python-dotenv==0.21.1
 SQLAlchemy==2.0.20
 typing_extensions==4.7.1
-Werkzeug==2.3.7
+Werkzeug==2.2.3
